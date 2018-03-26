@@ -1,0 +1,4 @@
+---
+applications:
+- name: account
+  path: target/account-0.0.1-SNAPSHOT.jar
