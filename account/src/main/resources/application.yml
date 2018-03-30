@@ -1,0 +1,6 @@
+---
+spring:
+  application:
+    name: account
+ 
+message: Message from properties
