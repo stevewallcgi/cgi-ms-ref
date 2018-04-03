@@ -1,0 +1,6 @@
+---
+applications:
+- name: motd
+  path: target/motd-0.0.1-SNAPSHOT.jar
+  env:
+      TRUST_CERTS: api.system.lab04.den.ecsteam.io

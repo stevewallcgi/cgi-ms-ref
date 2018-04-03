@@ -1,0 +1,8 @@
+---
+spring:
+  application:
+    name: motd-client
+
+feign:
+    hystrix:
+        enabled: true
